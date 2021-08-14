@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jhestine Ong jhestine.ong@gmail.com @jhestineong
 
 # THANKS
 
